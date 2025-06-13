@@ -142,3 +142,11 @@ Together, these allow the OS and network stack to initiate basic communication w
 - **Interface**: Ethernet (`eth0`)
 
 ---
+
+## 👨‍💻 Author
+
+**Darsh Chatrani**  
+🔗 [LinkedIn](https://linkedin.com/in/darshchatrani)  
+📞 Contact: +91 97899 57123
+
+---
